@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "Belice"
+        },
+        "geometry": {
+          "coordinates": [
+            -88.68173506118174,
+            17.028265496327492
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Guatemala"
+        },
+        "geometry": {
+          "coordinates": [
+            -90.10879896277599,
+            15.664137638669686
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Honduras"
+        },
+        "geometry": {
+          "coordinates": [
+            -86.79398313995704,
+            14.901320268848295
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "El Salvador"
+        },
+        "geometry": {
+          "coordinates": [
+            -88.87388310061375,
+            13.74979896327821
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nicaragua"
+        },
+        "geometry": {
+          "coordinates": [
+            -85.15133321865326,
+            12.609973462101905
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Costa Rica"
+        },
+        "geometry": {
+          "coordinates": [
+            -84.02300823680842,
+            10.036031652967253
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Panama"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.97500096540794,
+            8.99722239229797
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      }
+    ]
+  }
