@@ -4,7 +4,9 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Belice"
+          "country": "Belize",
+          "description": "The Tucan is a bird that is native to Belize. It is a symbol of the country and is often seen in the wild. The Tucan is known for its colorful feathers and distinctive beak. It is a popular bird for birdwatchers and tourists to see in Belize.",
+          "image_url": "https://raw.githubusercontent.com/kathy53/green_developments/refs/heads/main/map_with_cards/card_images/belize.jpeg"
         },
         "geometry": {
           "coordinates": [
@@ -18,7 +20,9 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Guatemala"
+          "country": "Guatemala",
+          "description": "In Guatemala the Quetzal is a simbol of freedom and is the national bird. The Quetzal is a bird that is native to Central America. It is known for its colorful feathers and long tail. The Quetzal is a symbol of freedom and is often seen as a sign of good luck. It is a popular bird for birdwatchers and tourists to see in Guatemala.",
+          "image_url": "https://raw.githubusercontent.com/kathy53/green_developments/refs/heads/main/map_with_cards/card_images/guatemala.jpeg"
         },
         "geometry": {
           "coordinates": [
@@ -32,7 +36,9 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Honduras"
+          "country": "Honduras",
+          "description": "the deer is a native animal of Honduras known for its speed and agility. The deer is a symbol of the country and is often seen in the wild. The deer is known for its graceful movements and is a popular animal for wildlife enthusiasts to see in Honduras.",
+          "image_url": "https://raw.githubusercontent.com/kathy53/green_developments/refs/heads/main/map_with_cards/card_images/honduras.jpeg"
         },
         "geometry": {
           "coordinates": [
@@ -46,7 +52,9 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "El Salvador"
+          "country": "El Salvador",
+          "description": "The turquoise-browed motmot know locally as 'torogoz' is a bird that is native to El Salvador. It is a symbol of the country and is often seen in the wild. The turquoise-browed motmot is known for its colorful feathers and distinctive tail. It is a popular bird for birdwatchers and tourists to see in El Salvador.",
+          "image_url": "https://raw.githubusercontent.com/kathy53/green_developments/refs/heads/main/map_with_cards/card_images/el_salvador.jpeg"
         },
         "geometry": {
           "coordinates": [
@@ -60,7 +68,9 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Nicaragua"
+          "country": "Nicaragua",
+          "description": "In Nicaragua turtles are known for their long life and are a symbol of wisdom. The turtle is a reptile that is native to Central America. It is known for its long life and is a symbol of wisdom. The turtle is a popular animal for wildlife enthusiasts to see in Nicaragua.",
+          "image_url": "https://raw.githubusercontent.com/kathy53/green_developments/refs/heads/main/map_with_cards/card_images/nicaragua.jpeg"
         },
         "geometry": {
           "coordinates": [
@@ -74,7 +84,9 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Costa Rica"
+          "country": "Costa Rica",
+          "description": "The Scarlet Macaw is know for its colorful feathers and is a symbol of Costa Rica. The Scarlet Macaw is a bird that is native to Central America. It is known for its colorful feathers and loud call. The Scarlet Macaw is a symbol of Costa Rica and is often seen in the wild. It is a popular bird for birdwatchers and tourists to see in Costa Rica.",
+          "image_url": "https://raw.githubusercontent.com/kathy53/green_developments/refs/heads/main/map_with_cards/card_images/costa_rica.jpeg"
         },
         "geometry": {
           "coordinates": [
@@ -88,7 +100,9 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Panama"
+          "country": "Panama",
+          "description": "The harpy eagle is a bird that is native to Panama. It is a symbol of the country and is often seen in the wild. The harp eagle is known for its large size and distinctive call. It is a popular bird for birdwatchers and tourists to see in Panama.",
+          "image_url": "https://raw.githubusercontent.com/kathy53/green_developments/refs/heads/main/map_with_cards/card_images/panama.jpeg"
         },
         "geometry": {
           "coordinates": [
