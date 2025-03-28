@@ -10,3 +10,9 @@ A second Geojson could be created to pass locations for each card for a given pr
 - a random pair of coordinates to depict animals inside the project but protecting the real animal locatioin for safety animal security.
 - the location of a tree if the project aims to reforest an area
 - location of user interest facilities, such a local musseum, toilets, medic services, etc.
+
+# About the Geojson files
+The polygons for each country used by the "map" version have been gathered from https://geojson-maps.kyd.au/
+
+The individual points in the "map_display_cards" version have been fetched using the website geojson.io
+ 
